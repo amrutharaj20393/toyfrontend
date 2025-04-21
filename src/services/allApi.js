@@ -1,4 +1,4 @@
-import { commonApi } from "./commonapi"
+import { commonApi } from "./commonApi"
 import { serverurl } from "./serverurl"
 
 
